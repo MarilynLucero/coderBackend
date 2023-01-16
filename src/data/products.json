@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"title": "alamos",
+		"description": "vino malbec",
+		"code": "1",
+		"price": 3500,
+		"stock": 20,
+		"status": true,
+		"category": "malbec",
+		"thumbnail": [
+			"/img/alamosmalbec.jpeg"
+		]
+	},
+	{
+		"id": 2,
+		"title": "casa uco",
+		"description": "vino malbec",
+		"code": "2",
+		"price": 5000,
+		"stock": 2,
+		"status": true,
+		"category": "malbec",
+		"thumbnail": [
+			"/img/casaucomalbec.jpg"
+		]
+	},
+	{
+		"id": 3,
+		"title": "catena",
+		"description": "vino chardonnay",
+		"code": "3",
+		"price": 7500,
+		"stock": 10,
+		"status": true,
+		"category": "chardonnay",
+		"thumbnail": [
+			"/img/catenachardonnay.jpeg"
+		]
+	},
+	{
+		"id": 4,
+		"title": "desigual",
+		"description": "vino malbec",
+		"code": "4",
+		"price": 6000,
+		"stock": 8,
+		"status": true,
+		"category": "malbec",
+		"thumbnail": [
+			"/img/desigualmalbec.webp"
+		]
+	},
+	{
+		"id": 5,
+		"title": "lorca",
+		"description": "vino chardonnay",
+		"code": "5",
+		"price": 6500,
+		"stock": 20,
+		"status": true,
+		"category": "chardonnay",
+		"thumbnail": [
+			"/img/lorcachardonnay.webp"
+		]
+	},
+	{
+		"id": 6,
+		"title": "pajaros argentinos",
+		"description": "vino malbec",
+		"code": "6",
+		"price": 3080,
+		"stock": 12,
+		"status": true,
+		"category": "malbec",
+		"thumbnail": [
+			"/img/malbec-pajarosargentinos.jpeg"
+		]
+	},
+	{
+		"id": 7,
+		"title": "Martino",
+		"description": "vino rose",
+		"code": "7",
+		"price": 10000,
+		"stock": 5,
+		"status": true,
+		"category": "rose",
+		"thumbnail": [
+			"/img/Martino-Rose.jpg"
+		]
+	},
+	{
+		"id": 8,
+		"title": "el coto",
+		"description": "vino tempranillo",
+		"code": "8",
+		"price": 10000,
+		"stock": 12,
+		"status": true,
+		"category": "tempranillo",
+		"thumbnail": [
+			"/img/tempranilloelcoto.jpg"
+		]
+	},
+	{
+		"id": 9,
+		"title": "trivento",
+		"description": "vino malbec white",
+		"code": "9",
+		"price": 12000,
+		"stock": 10,
+		"status": true,
+		"category": "malbec white",
+		"thumbnail": [
+			"/img/triventomalbecwhite.jpg"
+		]
+	},
+	{
+		"id": 10,
+		"title": "siete vacas",
+		"description": "vino torrontes",
+		"code": "10",
+		"price": 7200,
+		"stock": 5,
+		"status": true,
+		"category": "torrontes",
+		"thumbnail": [
+			"/img/torrontessietevacas.jpg"
+		]
+	}
+]
